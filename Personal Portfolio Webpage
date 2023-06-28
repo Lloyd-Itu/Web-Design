@@ -1,0 +1,168 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Itumeleng Lekgeu Porfolio </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Itumeleng Lekgeu Portfolio<br />
+						</h1>
+						<p>Data Analyst skilled in SQL, Python, Tableau, and Power BI  <a href="https://www.linkedin.com/in/itumeleng-lekgeu-b60191192/">@Lloyd_Itu</a>  <a href="https://html5up.net"></a><br />
+						 <a href="https://html5up.net/license"></a></p>
+						 <h3>Summary:</h3> <p></p>High performing professional with Databases, SQL, experience delivering high impact work in the analytics industry. 
+							Skilled in developing strong internal and external relationships to facilitate collaborative achievement of high priority goals. 
+							Confident in ability to thrive in a fast-paced setting and leverage skills in Data visualisation, Data mapping,Problem Solving, Analytical Skills to enable team success. 
+							Committed to lifelong learning and going the extra mile to contribute to facilitate continuous improvement.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Business Informatics Graduate</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Projects</a></li>
+							
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/itumeleng-lekgeu-b60191192/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+								
+									<li><a href="https://github.com/Lloyd-Itu" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+
+									<h2><a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/Cleaning%20Housing%20Data%20SQLQuery3.sql">Data Cleaning in SQL<br />
+									</a></h2>
+									<p>In this project I cleaned housing data in SQL Server.</p>
+								</header>
+								<a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/Cleaning%20Housing%20Data%20SQLQuery3.sql" class="image main"><img src="images/Canada-Housing-Header-Graphic-DCN-1024x576.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/Cleaning%20Housing%20Data%20SQLQuery3.sql" class="button large">View Project</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration.sql">Data Exploration in SQL<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration.sql" class="image fit"><img src="images/covid-cells.jpg" alt="" /></a>
+									<p>Data Exploration of Covid 19 Dataset in SQL Server.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration.sql" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://public.tableau.com/app/profile/itumeleng.lekgeu">Tableau Projects<br />
+										</a></h2>
+									</header>
+									<a href="https://public.tableau.com/app/profile/itumeleng.lekgeu" class="image fit"><img src="images/Tableau-Logo.png" alt="" /></a>
+									<p>                         All my Tableau related projects in place.</p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/app/profile/itumeleng.lekgeu" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/U.S.%20Medical%20Insurance%20Costs%20Project.ipynb">Python: U.S. Medical Insurance Costs<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/U.S.%20Medical%20Insurance%20Costs%20Project.ipynb" class="image fit"><img src="images/medical.jpg" alt="" /></a>
+									<p>Analyzing a dataset by building out functions or class methods. Using libraries to assist in my analysis & Make predictions about a dataset’s features based on my finding</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/U.S.%20Medical%20Insurance%20Costs%20Project.ipynb" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/Hurricane%20Analysis.ipynb">Python: Hurricane Analysis<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/Hurricane%20Analysis.ipynb" class="image fit"><img src="images/hurricaneian_092822_Getty.jpeg" alt="" /></a>
+									<p>Writing several functions that organize and manipulate data about Category 5 Hurricanes, the strongest hurricanes as rated by their wind speed. Each one of these functions will use a number of parameters, conditionals, lists, dictionaries, string manipulation, and return statements..</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/Lloyd-Itu/PortfolioProjects/blob/main/Hurricane%20Analysis.ipynb" class="button">View Project</a></li>
+									</ul>
+								</article>
+								
+							</section>
+
+					
+
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Location</h3>
+								<p><br />
+								Pretoria, Gauteng </p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(+27) 78-199-2979</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">itumclloyd@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/itumeleng-lekgeu-b60191192/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+								
+									<li><a href="https://github.com/Lloyd-Itu" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
